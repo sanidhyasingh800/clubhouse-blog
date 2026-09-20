@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[82886,["/clubhouse-blog/_next/static/chunks/3ekdrmec82wyy.js","/clubhouse-blog/_next/static/chunks/38h2_qfa_n47c.js"],"SystemArchitectureMap"]
+3:I[22016,["/clubhouse-blog/_next/static/chunks/3ekdrmec82wyy.js","/clubhouse-blog/_next/static/chunks/38h2_qfa_n47c.js"],""]
+4:I[97367,["/clubhouse-blog/_next/static/chunks/3ekdrmec82wyy.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/clubhouse-blog/_next/static/chunks/3ekdrmec82wyy.js"],"ViewportBoundary"]
+a:I[97367,["/clubhouse-blog/_next/static/chunks/3ekdrmec82wyy.js"],"MetadataBoundary"]
+b:I[27201,["/clubhouse-blog/_next/static/chunks/3ekdrmec82wyy.js"],"IconMark"]
+d:I[39756,["/clubhouse-blog/_next/static/chunks/3ekdrmec82wyy.js"],"default"]
+e:I[37457,["/clubhouse-blog/_next/static/chunks/3ekdrmec82wyy.js"],"default"]
+11:I[99033,["/clubhouse-blog/_next/static/chunks/3ekdrmec82wyy.js"],"Contents"]
+:HL["/clubhouse-blog/_next/static/chunks/3amjzka17co_4.css","style"]
+:HL["/clubhouse-blog/logo-128.png","image"]
+8:X
+10:X
+10:C
+0:{"buildId":"cw2bQAjTu5yAKIX1VJPo6","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"article","children":[["$","header",null,{"className":"article__head","children":[["$","p",null,{"className":"article__eyebrow","children":"02"}],["$","h1",null,{"className":"article__title","children":"Architecture"}],false]}],["$","div",null,{"className":"article__body","children":[["$","$L2","0",{}]]}],["$","nav",null,{"aria-label":"Next section","className":"article__next","children":["$","$L3",null,{"className":"article__next-link","href":"/backend/","children":[["$","span",null,{"className":"article__next-label","children":"Next"}],["$","span",null,{"className":"article__next-title","children":"Backend"}]]}]}]]}],[["$","script","script-0",{"src":"/clubhouse-blog/_next/static/chunks/38h2_qfa_n47c.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Architecture | Clubhouse developer blog"}],["$","meta","1",{"name":"description","content":"The whole Clubhouse system, from its reader-facing surfaces to its data plane."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/clubhouse-blog/favicon-192.png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/clubhouse-blog/apple-touch-icon.png"}],["$","$Lb","5",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@c","staleTime":"$8","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@f","staleTime":"$8","varyParams":"$10"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clubhouse-blog/_next/static/chunks/3amjzka17co_4.css","precedence":"next"}],["$","script","script-0",{"src":"/clubhouse-blog/_next/static/chunks/3ekdrmec82wyy.js","async":true}]],["$","html",null,{"data-theme":"light","lang":"en","children":["$","body",null,{"children":["$","div",null,{"className":"blog-shell","children":[["$","header",null,{"className":"blog-header","children":["$","div",null,{"className":"blog-header__inner","children":["$","span",null,{"className":"blog-header__brand","children":[["$","img",null,{"alt":"","aria-hidden":"true","height":"28","src":"/clubhouse-blog/logo-128.png","width":"28"}],["$","span",null,{"children":"Clubhouse"}]]}]}]}],["$","div",null,{"className":"blog-layout","children":[["$","aside",null,{"className":"blog-layout__rail","children":["$","$L11",null,{}]}],["$","main",null,{"className":"blog-layout__main","children":["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}],"notFound":[["$","div",null,{"className":"article","children":[["$","header",null,{"className":"article__head","children":[["$","h1",null,{"className":"article__title","children":"Not here"}],["$","p",null,{"className":"article__summary","children":"That page does not exist on this blog."}]]}],["$","div",null,{"className":"article__body","children":["$","p",null,{"className":"article__p","children":["$","$L3",null,{"className":"article__inline-link","href":"/","children":"Back to the introduction"}]}]}]]}],[]]}]}]]}]]}]}]}]]}],"isPartial":"$@12","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+6:null
+8:300
+14:true
+8:C
+13:0
+c:"$undefined"
+f:"$undefined"
+12:"$undefined"
+7:"$undefined"
